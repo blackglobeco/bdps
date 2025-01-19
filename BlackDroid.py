@@ -43,127 +43,129 @@ connect = Fore.RED + "|" + Fore.WHITE
 page2 = False
 
 logo_design_1 = ('''
-  {0}  ____  __                    _____       __      _ __ 
-   / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_
-  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \ / / __ \/ / __/
-{1} / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_  
-/_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/  
-                                 /_/''').format(Fore.GREEN, Fore.WHITE, Fore.RED)
-
-logo_design_2 = Fore.GREEN + '''                                             
   .;'                     `;,
- .;'  ,;'             `;,  `;,   {0}PhoneSploit
+ .;'  ,;'             `;,  `;,   
 .;'  ,;'  ,;'     `;,  `;,  `;,
 ::   ::   :   {1}( ){0}   :   ::   ::                              
 ':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
- ':.  ':.    {1}/___\{0}    ,:'  ,:'     {1}by R(0_o)T{0}
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
+''').format(Fore.GREEN, Fore.WHITE, Fore.RED)
+
+logo_design_2 = Fore.GREEN + '''                                             
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
   ':.       {1}/_____\{0}      ,:'
            {1}/       \\{0}
 '''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
 
 logo_design_pre = '''
-{0}╔═╗{1}┬ ┬┌─┐┌┐┌┌─┐{0}╔═╗{1}┌─┐┬  ┌─┐┬┌┬┐
-{0}╠═╝{1}├─┤│ ││││├┤ {0}╚═╗{1}├─┘│  │ ││ │ 
-{0}╩  {1}┴ ┴└─┘┘└┘└─┘{0}╚═╝{1}┴  ┴─┘└─┘┴ ┴ '''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
+'''.format(Fore.GREEN, Fore.WHITE, Fore.RED)
 logo_design_3 = logo_design_pre
 
 logo_design_4 = '''
-\033[92m
-          +hydNNNNdyh+
-        +mMMMMMMMMMMMMm+
-      `dMMm\033[0m:\033[92mNMMMMMMN\033[0m:\033[92mmMMd`
-      hMMMMMMMMMMMMMMMMMMh
-  \033[92m..  yyyyyyyyyyyyyyyyyyyy  ..                                     
-\033[92m.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.            \033[0m Thanks for downloading!\033[92m
-\033[92m:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
-:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
--MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
-      mMMMMMMMMMMMMMMMMMMm
-      `/++MMMMh++hMMMM++/`
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs'''
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
+'''
 
 logo_design_5 = '''
- {0}______   {1}__  __     ______     __   __     ______     {0}______     {1}______   __         ______     __     ______  
-{0}/\  == \ {1}/\ \_\ \   /\  __ \   /\ "-.\ \   /\  ___\   {0}/\  ___\   {1}/\  == \ /\ \       /\  __ \   /\ \   /\__  _\ 
-{0}\ \  _-/ {1}\ \  __ \  \ \ \/\ \  \ \ \-.  \  \ \  __\   {0}\ \___  \  {1}\ \  _-/ \ \ \____  \ \ \/\ \  \ \ \  \/_/\ \/ 
- {0}\ \_\    {1}\ \_\ \_\  \ \_____\  \ \_\\"\_\   \ \_____\  {0}\/\_____\  {1}\ \_\    \ \_____\  \ \_____\  \ \_\    \ \_\ 
-  {0}\/_/     {1}\/_/\/_/   \/_____/   \/_/ \/_/   \/_____/   {0}\/_____/   {1}\/_/     \/_____/   \/_____/   \/_/     \/_/
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
 '''.format(Fore.WHITE, Fore.GREEN)
 
 logo_design_6 = Fore.RED + '''
-                      ,____
-                      |---.\\
-              ___     |    `      PHONESPLOIT
-             / .-\  ./=)
-            |  |"|_/\/|
-            ;  |-;| /_|         REAP THE REWARDS
-           / \_| |/ \ |
-          /      \/\( |
-          |   /  |` ) |
-          /   \ _/    |
-         /--._/  \    |
-         `/|)    |    /
-           /     |   |
-         .'      |   |
-        /         \  |
-       (_.-.__.__./  /
-
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
 '''
 
 logo_design_7 = Fore.GREEN + '''
-    .o oOOOOOOOo                                            OOOo
-    Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
-    OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
-    OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
-    `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
-    .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
-    OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
-   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
-  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
- OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
- "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
-    Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
-    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?         .
-    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
-                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
-                      `$"  `OOOO' `O"Y ' `OOOO'  o             .
-    .                  .     OP"          : o     .
-
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
 '''
 
 logo_design_8 = '''
-   ▄▄▄· ▄ .▄       ▐ ▄ ▄▄▄ ..▄▄ ·  ▄▄▄·▄▄▌        ▪  ▄▄▄▄▄
-  ▐█ ▄███▪▐█▪     •█▌▐█▀▄.▀·▐█ ▀. ▐█ ▄███•  ▪     ██ •██  
-   ██▀·██▀▐█ ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▄▀▀▀█▄ ██▀·██▪   ▄█▀▄ ▐█· ▐█.▪
-  ▐█▪·•██▌▐▀▐█▌.▐▌██▐█▌▐█▄▄▌▐█▄▪▐█▐█▪·•▐█▌▐▌▐█▌.▐▌▐█▌ ▐█▌·
-  .▀   ▀▀▀ · ▀█▄▀▪▀▀ █▪ ▀▀▀  ▀▀▀▀ .▀   .▀▀▀  ▀█▄▀▪▀▀▀ ▀▀▀ 
+  .;'                     `;,
+ .;'  ,;'             `;,  `;,   
+.;'  ,;'  ,;'     `;,  `;,  `;,
+::   ::   :   {1}( ){0}   :   ::   ::                              
+':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'          
+ ':.  ':.    {1}/___\{0}    ,:'  ,:'    
+  ':.       {1}/_____\{0}      ,:'
+           {1}/       \\{0}
 '''
 
 # Graphics # http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 page_1 = '''\n
-{0}[{1}1{0}] {2}Show Connected Devices      {0}[{1}6{0}] {2}Screen record a phone               {0}[{1}11{0}] {2}Uninstall an app                   
-{0}[{1}2{0}] {2}Disconect all devices       {0}[{1}7{0}] {2}Screen Shot a picture on a phone    {0}[{1}12{0}] {2}Show real time log of device       
-{0}[{1}3{0}] {2}Connect a new phone         {0}[{1}8{0}] {2}Restart Server                      {0}[{1}13{0}] {2}Dump System Info                   
-{0}[{1}4{0}] {2}Access Shell on a phone     {0}[{1}9{0}] {2}Pull folders from phone to pc       {0}[{1}14{0}] {2}List all apps on a phone           
-{0}[{1}5{0}] {2}Install an apk on a phone   {0}[{1}10{0}] {2}Turn The Device off                {0}[{1}15{0}] {2}Run an app                         
+{0}[{1}1{0}] {2}Show Connected Phones
+{0}[{1}2{0}] {2}Disconect All Phones
+{0}[{1}3{0}] {2}Connect A New Phone
+{0}[{1}4{0}] {2}Access Shell On A Phone
+{0}[{1}5{0}] {2}Install An APK On A Phone          
+{0}[{1}6{0}] {2}Screen Record A Phone
+{0}[{1}7{0}] {2}Screen Shot A Picture On A Phone
+{0}[{1}8{0}] {2}Restart Server
+{0}[{1}9{0}] {2}Download Folders From Phone
+{0}[{1}10{0}] {2}Turn The Device Off
+{0}[{1}11{0}] {2}Uninstall An App
+{0}[{1}12{0}] {2}Show Real Time Log Of Phone
+{0}[{1}13{0}] {2}Dump System Info
+{0}[{1}14{0}] {2}List All Apps On Phone
+{0}[{1}15{0}] {2}Run an app
 
 
 {0}[{1}99{0}] {2}Exit   {0}[{1}0{0}] {2}Clear   {0}[{1}p{0}] Next Page                           
 '''.format(Fore.CYAN, Fore.RED, Fore.GREEN)
 
 page_2 = '''\n
-{0}[{1}16{0}]{2} Port Forwarding                {0}[{1}21{0}]{2} NetStat                    {0}[{1}26{0}]{2} Send file/folder from PC to Phone
-{0}[{1}17{0}]{2} Grab wpa_supplicant            {0}[{1}22{0}]{2} Turn WiFi On/Off                 
-{0}[{1}18{0}]{2} Show Mac/Inet                  {0}[{1}23{0}]{2} Remove Password
-{0}[{1}19{0}]{2} Extract apk from app           {0}[{1}24{0}]{2} Use Keycode            
-{0}[{1}20{0}]{2} Get Battery Status             {0}[{1}25{0}]{2} Get Current Activity                  
-
+{0}[{1}16{0}]{2} Port Forwarding
+{0}[{1}17{0}]{2} Grab wpa_supplicant
+{0}[{1}18{0}]{2} Show Mac/Inet
+{0}[{1}19{0}]{2} Extract apk from app
+{0}[{1}20{0}]{2} Get Battery Status
+{0}[{1}21{0}]{2} NetStat
+{0}[{1}22{0}]{2} Turn WiFi On/Off
+{0}[{1}23{0}]{2} Remove Password
+{0}[{1}24{0}]{2} Use Keycode
+{0}[{1}25{0}]{2} Get Current Activity 
+{0}[{1}26{0}]{2} Send File/Folder To Phone
 
 {0}[{1}99{0}] {2}Exit   {0}[{1}0{0}] {2}Clear   {0}[{1}b{0}] Back to page one
 '''.format(Fore.CYAN, Fore.RED, Fore.GREEN)
